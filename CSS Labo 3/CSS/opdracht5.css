@@ -1,0 +1,22 @@
+body{
+	font-family: "Verdana";
+	font-size: 1.1em;
+}
+h1{
+	font-variant: all-small-caps;
+	background-color: red;
+}
+a:hover{
+	border: 3px solid red;
+	color: red;
+}
+.stippeltjesrand{
+	border: 1px dotted red;
+}
+a{
+	background-image: url(../images/F1.png);
+	background-size: 50px;
+	background-position: left;
+	background-repeat: no-repeat;
+	padding-left: 60px;
+}

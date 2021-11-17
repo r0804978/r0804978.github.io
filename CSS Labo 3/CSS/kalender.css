@@ -1,0 +1,37 @@
+table {
+	border-collapse: collapse;
+	width: 40%;
+}
+table,tr, th, td{
+	border: 1px solid black;
+	padding: 8px;
+}
+th:first-child{
+	background-color: rgb(255, 220, 220);
+}
+th:last-child{
+	background-color: rgb(255, 220, 220);
+}
+td{
+	text-align: center;
+}
+.passed{
+	text-decoration-style: i;
+	color: darkgray;
+	background-color: lightgray;
+}
+#days{
+	color: blue;
+	background-color: rgb(200,190,240);
+}
+.month{
+	color: black;
+	background-color: rgb(170,170,200);
+}
+.free{
+	background-color: rgb(250,120,120);
+}
+.underline{
+	color: blue;
+	text-decoration: underline;
+}
